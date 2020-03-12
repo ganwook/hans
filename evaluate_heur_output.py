@@ -136,6 +136,3 @@ for template in template_list:
     total = correct + incorrect
     percent = correct * 1.0 / total
     print(template + ": " + str(percent))
-
-
-
