@@ -1,81 +1,81 @@
 index	question	sentence	label
-0	sentence1	sentence2	not_entailment
-1	The president advised the doctor .	The doctor advised the president .	not_entailment
-2	The student saw the managers .	The managers saw the student .	not_entailment
-3	The presidents encouraged the banker .	The banker encouraged the presidents .	not_entailment
-4	The senators supported the actor .	The actor supported the senators .	not_entailment
-5	The actors avoided the bankers .	The bankers avoided the actors .	not_entailment
-6	The senators mentioned the artist .	The artist mentioned the senators .	not_entailment
-7	The managers saw the secretaries .	The secretaries saw the managers .	not_entailment
-8	The professor recognized the secretaries .	The secretaries recognized the professor .	not_entailment
-9	The author contacted the scientist .	The scientist contacted the author .	not_entailment
-10	The athletes recommended the senator .	The senator recommended the athletes .	not_entailment
-11	The president avoided the athlete .	The athlete avoided the president .	not_entailment
-12	The judges supported the banker .	The banker supported the judges .	not_entailment
-13	The senators contacted the scientists .	The scientists contacted the senators .	not_entailment
-14	The banker thanked the tourist .	The tourist thanked the banker .	not_entailment
-15	The tourists admired the secretary .	The secretary admired the tourists .	not_entailment
-16	The lawyers helped the judge .	The judge helped the lawyers .	not_entailment
-17	The actors introduced the lawyer .	The lawyer introduced the actors .	not_entailment
-18	The professors advised the judge .	The judge advised the professors .	not_entailment
-19	The artists contacted the professor .	The professor contacted the artists .	not_entailment
-20	The student recognized the senator .	The senator recognized the student .	not_entailment
-21	The secretary introduced the judge .	The judge introduced the secretary .	not_entailment
-22	The senators introduced the president .	The president introduced the senators .	not_entailment
-23	The lawyer introduced the professors .	The professors introduced the lawyer .	not_entailment
-24	The tourist believed the students .	The students believed the tourist .	not_entailment
-25	The athlete recommended the judge .	The judge recommended the athlete .	not_entailment
-26	The secretary recommended the lawyer .	The lawyer recommended the secretary .	not_entailment
-27	The authors recommended the professors .	The professors recommended the authors .	not_entailment
-28	The students thanked the authors .	The authors thanked the students .	not_entailment
-29	The tourist contacted the judges .	The judges contacted the tourist .	not_entailment
-30	The authors introduced the students .	The students introduced the authors .	not_entailment
-31	The author contacted the professors .	The professors contacted the author .	not_entailment
-32	The judges recommended the president .	The president recommended the judges .	not_entailment
-33	The students believed the judges .	The judges believed the students .	not_entailment
-34	The athletes supported the president .	The president supported the athletes .	not_entailment
-35	The managers introduced the bankers .	The bankers introduced the managers .	not_entailment
-36	The authors encouraged the judges .	The judges encouraged the authors .	not_entailment
-37	The actor stopped the senators .	The senators stopped the actor .	not_entailment
-38	The artist avoided the senators .	The senators avoided the artist .	not_entailment
-39	The actors recognized the student .	The student recognized the actors .	not_entailment
-40	The senators stopped the presidents .	The presidents stopped the senators .	not_entailment
-41	The scientists encouraged the lawyers .	The lawyers encouraged the scientists .	not_entailment
-42	The professors helped the presidents .	The presidents helped the professors .	not_entailment
-43	The authors stopped the senator .	The senator stopped the authors .	not_entailment
-44	The professor advised the manager .	The manager advised the professor .	not_entailment
-45	The manager introduced the judge .	The judge introduced the manager .	not_entailment
-46	The presidents contacted the scientist .	The scientist contacted the presidents .	not_entailment
-47	The artists encouraged the scientists .	The scientists encouraged the artists .	not_entailment
-48	The lawyer advised the author .	The author advised the lawyer .	not_entailment
-49	The student contacted the senator .	The senator contacted the student .	not_entailment
-50	The students recognized the professor .	The professor recognized the students .	not_entailment
-51	The actor believed the scientist .	The scientist believed the actor .	not_entailment
-52	The artist contacted the tourist .	The tourist contacted the artist .	not_entailment
-53	The president helped the actors .	The actors helped the president .	not_entailment
-54	The professors introduced the secretary .	The secretary introduced the professors .	not_entailment
-55	The doctors advised the senator .	The senator advised the doctors .	not_entailment
-56	The doctors believed the student .	The student believed the doctors .	not_entailment
-57	The judges mentioned the student .	The student mentioned the judges .	not_entailment
-58	The judge called the doctors .	The doctors called the judge .	not_entailment
-59	The managers stopped the president .	The president stopped the managers .	not_entailment
-60	The artist introduced the tourists .	The tourists introduced the artist .	not_entailment
-61	The manager contacted the secretaries .	The secretaries contacted the manager .	not_entailment
-62	The judges recommended the secretary .	The secretary recommended the judges .	not_entailment
-63	The actors called the professor .	The professor called the actors .	not_entailment
-64	The scientists avoided the actors .	The actors avoided the scientists .	not_entailment
-65	The banker encouraged the artists .	The artists encouraged the banker .	not_entailment
-66	The artists believed the bankers .	The bankers believed the artists .	not_entailment
-67	The professor recommended the manager .	The manager recommended the professor .	not_entailment
-68	The doctor thanked the secretary .	The secretary thanked the doctor .	not_entailment
-69	The banker admired the actors .	The actors admired the banker .	not_entailment
-70	The banker thanked the lawyer .	The lawyer thanked the banker .	not_entailment
-71	The managers called the athletes .	The athletes called the managers .	not_entailment
-72	The tourists introduced the authors .	The authors introduced the tourists .	not_entailment
-73	The secretary mentioned the authors .	The authors mentioned the secretary .	not_entailment
-74	The banker admired the tourist .	The tourist admired the banker .	not_entailment
-75	The lawyers thanked the managers .	The managers thanked the lawyers .	not_entailment
-76	The authors recognized the judges .	The judges recognized the authors .	not_entailment
-77	The senators saw the author .	The author saw the senators .	not_entailment
-78	The students stopped the professors .	The professors stopped the students .	not_entailment
-79	The athletes thanked the student .	The student thanked the athletes .	not_entailment
+ex114	The lawyer called the actor .	The actor called the lawyer .	not_entailment
+ex189	The secretaries advised the bankers .	The bankers advised the secretaries .	not_entailment
+ex258	The authors stopped the doctors .	The doctors stopped the authors .	not_entailment
+ex429	The student helped the presidents .	The presidents helped the student .	not_entailment
+ex1448	The student advised the senator in front of the secretary .	The secretary advised the student .	not_entailment
+ex1595	The actors called the manager near the senator .	The manager called the senator .	not_entailment
+ex1874	The doctor by the scientists believed the athletes .	The athletes believed the doctor .	not_entailment
+ex2349	The authors encouraged the actors who the artist believed .	The actors encouraged the artist .	not_entailment
+ex2679	The author recognized the tourists who admired the lawyer .	The lawyer recognized the author .	not_entailment
+ex2710	The judge that the president thanked introduced the managers .	The managers introduced the judge .	not_entailment
+ex2791	The doctors that avoided the professors thanked the judge .	The professors thanked the doctors .	not_entailment
+ex2863	The tourist who the senator believed called the professors .	The professors called the senator .	not_entailment
+ex2937	The students who the doctors helped saw the lawyers .	The doctors saw the students .	not_entailment
+ex3043	The author was avoided by the scientists .	The author avoided the scientists .	not_entailment
+ex3792	The students were recommended by the president .	The students recommended the president .	not_entailment
+ex3888	The secretaries were supported by the scientists .	The secretaries supported the scientists .	not_entailment
+ex4167	The professor believed the tourist and the doctor .	The tourist believed the doctor .	not_entailment
+ex4993	The author encouraged the artists and the actors .	The artists encouraged the actors .	not_entailment
+ex5587	The presidents avoided the artists who stopped the banker .	The artists stopped the banker .	entailment
+ex6161	The athlete in front of the students called the lawyers .	The athlete called the lawyers .	entailment
+ex6445	The scientists in front of the senators recognized the secretaries .	The scientists recognized the secretaries .	entailment
+ex6603	The senator by the artists believed the authors .	The senator believed the authors .	entailment
+ex6752	The actor next to the athlete thanked the artist .	The actor thanked the artist .	entailment
+ex6756	The artists near the tourist recognized the secretary .	The artists recognized the secretary .	entailment
+ex7917	The bankers that the secretaries supported recommended the student .	The bankers recommended the student .	entailment
+ex8193	The manager and the lawyers contacted the judges .	The manager contacted the judges .	entailment
+ex9734	The manager was advised by the student .	The student advised the manager .	entailment
+ex10769	The doctor knew the author waited .	The doctor knew the author .	not_entailment
+ex11366	The bankers by the doctors recognized the secretaries .	The doctors recognized the secretaries .	not_entailment
+ex11482	The student by the actor supported the professors .	The actor supported the professors .	not_entailment
+ex11531	The scientist next to the actor stopped the judge .	The actor stopped the judge .	not_entailment
+ex11702	The tourists by the athlete helped the bankers .	The athlete helped the bankers .	not_entailment
+ex11725	The doctors near the students danced .	The students danced .	not_entailment
+ex11852	The athletes near the judges slept .	The judges slept .	not_entailment
+ex11953	The scientist behind the judge arrived .	The judge arrived .	not_entailment
+ex12890	The bankers who recommended the president mentioned the artists .	The president mentioned the artists .	not_entailment
+ex13057	The students paid in the laboratory avoided the tourist .	The students paid in the laboratory .	not_entailment
+ex13288	The tourists helped in the library waited .	The tourists helped in the library .	not_entailment
+ex13387	The senators introduced the managers presented in the office .	The managers presented in the office .	not_entailment
+ex13588	The lawyers paid in the school recognized the senator .	The lawyers paid in the school .	not_entailment
+ex14228	After the scientists stopped the artists slept .	The scientists stopped the artists .	not_entailment
+ex14529	Since the professors presented the managers danced .	The professors presented the managers .	not_entailment
+ex15118	The president recognized the artists and the lawyer .	The president recognized the artists .	entailment
+ex15554	The banker and the secretaries slept .	The secretaries slept .	entailment
+ex15956	The doctor and the students stopped the tourist .	The students stopped the tourist .	entailment
+ex16608	Angry presidents contacted the artists .	Presidents contacted the artists .	entailment
+ex17239	The senators paid the authors .	The senators paid .	entailment
+ex18222	The judge saw the professors that waited .	The judge saw the professors .	entailment
+ex18266	The actors mentioned the judges who the student admired .	The actors mentioned the judges .	entailment
+ex18291	The bankers advised the tourists that the manager encouraged .	The bankers advised the tourists .	entailment
+ex18603	The actors admired the authors who slept .	The actors admired the authors .	entailment
+ex18669	The professors supported the tourists that advised the athletes .	The professors supported the tourists .	entailment
+ex18671	The scientists believed the banker who recognized the lawyers .	The scientists believed the banker .	entailment
+ex18921	The professor stopped the scientists who ran .	The professor stopped the scientists .	entailment
+ex19119	The banker mentioned the tourist next to the student .	The banker mentioned the tourist .	entailment
+ex19677	The actor avoided the tourist next to the secretaries .	The actor avoided the tourist .	entailment
+ex20650	Unless the lawyer saw the judge , the professors believed the banker .	The lawyer saw the judge .	not_entailment
+ex21233	If the tourists recommended the secretaries , the judges helped the scientists .	The judges helped the scientists .	not_entailment
+ex21282	If the secretary shouted , the professors advised the judge .	The professors advised the judge .	not_entailment
+ex21425	If the actors contacted the doctor , the senator danced .	The senator danced .	not_entailment
+ex21465	Unless the judge danced , the lawyer introduced the athletes .	The lawyer introduced the athletes .	not_entailment
+ex22168	The professor hoped that the doctors arrived .	The doctors arrived .	not_entailment
+ex22957	The authors hoped that the artist introduced the actors .	The artist introduced the actors .	not_entailment
+ex24022	Supposedly the athlete slept .	The athlete slept .	not_entailment
+ex24679	Maybe the scientists encouraged the athlete .	The scientists encouraged the athlete .	not_entailment
+ex25219	Because the judges admired the athletes , the tourist called the scientists .	The judges admired the athletes .	entailment
+ex25231	After the secretaries resigned , the manager recognized the professor .	The secretaries resigned .	entailment
+ex25261	After the athletes believed the students , the scientist shouted .	The athletes believed the students .	entailment
+ex25577	Because the tourist contacted the artist , the presidents saw the authors .	The tourist contacted the artist .	entailment
+ex26345	Because the scientist helped the senator , the athletes resigned .	The athletes resigned .	entailment
+ex26901	Since the scientist introduced the professors , the manager ran .	The manager ran .	entailment
+ex27049	The actor learned that the managers ran .	The managers ran .	entailment
+ex27379	The lawyer learned that the doctor stopped the actor .	The doctor stopped the actor .	entailment
+ex28391	The artist slept , and the tourists introduced the professors .	The artist slept .	entailment
+ex28392	The senator thanked the president , and the athlete believed the lawyer .	The senator thanked the president .	entailment
+ex28503	The bankers ran , and the senator mentioned the managers .	The senator mentioned the managers .	entailment
+ex28629	The professor supported the athlete , and the artist danced .	The artist danced .	entailment
+ex29349	Suddenly the judge mentioned the professor .	The judge mentioned the professor .	entailment
+ex29773	Definitely the student shouted .	The student shouted .	entailment
+ex29786	Definitely the secretaries supported the senator .	The secretaries supported the senator .	entailment
