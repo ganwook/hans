@@ -1,3 +1,9 @@
+## custom
+
+output/
+preds/
+ref/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
